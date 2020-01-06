@@ -2,7 +2,7 @@
     import java.awt.*;
     import java.awt.event.ActionEvent;
     import java.awt.event.ActionListener;
-
+//makes the objects show up on the screen
     import static java.awt.Font.BOLD;
 
     public class Board extends JPanel implements ActionListener {
